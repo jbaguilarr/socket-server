@@ -6,6 +6,8 @@ npm install -g typescript@3.2.2
 npm install @types/express --save-dev
 npm install @types/cors --save-dev
 
+
+
 tsc -w   //genera en dist
 
 /* Module Resolution Options */
@@ -13,3 +15,7 @@ descomento type y puso node
 
 /* Basic Options */
 descomento outdir  y puso   dist/
+
+
+npm install socket.io
+npm install @types/socket.io --save-dev
