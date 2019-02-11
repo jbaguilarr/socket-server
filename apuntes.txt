@@ -19,3 +19,5 @@ descomento outdir  y puso   dist/
 
 npm install socket.io
 npm install @types/socket.io --save-dev
+
+nodemon dist
